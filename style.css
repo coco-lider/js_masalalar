@@ -78,3 +78,10 @@ button {
       height: 800px;
     }
   }
+
+  @media (max-width: 790px) {
+    
+    .container{
+      height: 1500px;
+    }
+  }
